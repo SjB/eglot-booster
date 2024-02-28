@@ -6,8 +6,6 @@
 ;; Package-Requires: ((emacs "29.1") (eglot "1.0"))
 ;; Version: 0.0.1
 ;; Keywords: convenience, programming
-;; Prefix: eglot-booster
-;; Separator: -
 
 ;; eglot-booster is free software: you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License as
