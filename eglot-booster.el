@@ -3,7 +3,6 @@
 
 ;; Author: J.D. Smith
 ;; Homepage: https://github.com/jdtsmith/eglot-booster
-;; Package-Requires: ((emacs "29.1") (eglot "1.0"))
 ;; Version: 0.0.1
 ;; Keywords: convenience, programming
 
